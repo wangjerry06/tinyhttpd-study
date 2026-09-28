@@ -1,0 +1,6 @@
+notes/*.md.tmp
+.DS_Store
+httpd
+simpleclient
+*.o
+cmake-build-*/
